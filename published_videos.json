@@ -270,5 +270,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-019fa24b-37a8-7531-af62-57f0d95ab891.mp4",
+        "metadata": {
+            "title": "Twin Energy, K-Fashion Confidence \u2728 Yuna & Aeri\u2019s Curated Daily Look",
+            "description": "Today\u2019s video with Yuna Aeri is all about that \u201ceffortless but elevated\u201d twin vibe\u2014clean lines, trend-forward K-fashion details, and a beauty moment that makes you feel instantly put together. We styled this look to match that curated, aspirational aesthetic we always chase: wearable confidence, soft-glam kbeauty touches, and outfit ideas you can recreate for your next daily look. As sisters, we love seeing how our twin styling translates into real life\u2014whether you\u2019re heading out for a coffee run, a street-style moment, or just refreshing your closet with fresh K-fashion trends. If you\u2019ve been waiting for the kind of outfit that turns heads while still feeling like you, this is your sign. Like if you love twin style! Comment which look is your favorite! Share this with your sister or bestie! Follow Yuna and Aeri for daily K-fashion inspiration!",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
