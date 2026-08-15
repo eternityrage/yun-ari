@@ -702,5 +702,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-019fa24b-37a8-7531-af62-57f0d95ab891 (2).mp4",
+        "metadata": {
+            "title": "Twin Confidence, Daily Glow \u2728 Yuna & Aeri\u2019s K-Fashion Outfit Moment",
+            "description": "Today\u2019s video is pure sisterhood energy\u2014Yuna and Aeri are styling up a cheerful, confidence-first look that feels like a warm high-five from your favorite twin duo. We\u2019re sharing an everyday K-fashion vibe that\u2019s easy to wear but still totally Aesthetic, with those little details that make you feel instantly put together. From styling tips to self-love motivation, this is one of those \u201ctry it and feel amazing\u201d moments\u2014because your outfit should match your inner glow. Like if you love twin style! Comment which look is your favorite! Share this with your sister or bestie! Follow Yuna and Aeri for daily K-fashion inspiration!",
+            "success_flags": {
+                "instagram_reel": true,
+                "instagram_story": true,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
